@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{bea24191-6371-49be-bca4-5c09a1e6d4bf}">
+		<property name="assetPath">
+			<value>Fireplace, Campfire, Night, Wet Wood Burning Slow, Hizz, Crickets In Background, Slight Distance SND35582.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>52.806249999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{237e62d7-f0e4-48ba-9438-c622be900591}</destination>
+		</relationship>
+	</object>
+</objects>
