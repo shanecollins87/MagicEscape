@@ -9,7 +9,7 @@
 [LOG] DownMix::init                            : done.
 [LOG] Thread::initThread                       : Init FMOD stream thread. Affinity: 0x8000000000000003, Priority: 0xFFFF7FFB, Stack Size: 98304, Semaphore: No, Sleep Time: 10, Looping: Yes.
 [LOG] Thread::initThread                       : Init FMOD mixer thread. Affinity: 0x8000000000000001, Priority: 0xFFFF7FFA, Stack Size: 81920, Semaphore: No, Sleep Time: 0, Looping: Yes.
-[LOG] AsyncManager::init                       : manager 00000180B54912A8 isAsync 0 updatePeriod 0.02
+[LOG] AsyncManager::init                       : manager 000001C83E5A9CC8 isAsync 0 updatePeriod 0.02
 [LOG] AsyncManager::init                       : done
 [LOG] PlaybackSystem::init                     : 
 [LOG] Thread::initThread                       : Init FMOD Studio sample load thread. Affinity: 0x8000000000000003, Priority: 0xFFFF7FFD, Stack Size: 98304, Semaphore: No, Sleep Time: 1, Looping: No.
@@ -24,22 +24,3 @@
 [LOG] PluginEffectModel::init                  : Missing DSP plugin 'Oculus Spatializer'
 [LOG] PostLoad::initPluginEffects              : Creating stub DSP plugin model and continuing.
 [LOG] PlaybackSystem::acquireMasterBus         : Setting master channel group format to 6
-[LOG] SoundI::release                          : bensound-relaxing (0000017EF01B4C48)
-[LOG] SoundI::release                          :     bensound-relaxing (0000018121BDDD48)
-[LOG] SoundI::release                          :     bensound-relaxing (00000181414BD748)
-[LOG] SoundI::release                          : Fireplace, Campfire, Night, Wet Wood Burning Slow, Hizz, Crickets In Background, Slight Distance SND35582 (0000017EF01B5158)
-[LOG] SoundI::release                          :     Fireplace, Campfire, Night, Wet Wood Burning Slow, Hizz, Crickets In Background, Slight Distance SND35582 (0000018121BDBB28)
-[LOG] SoundI::release                          :     Fireplace, Campfire, Night, Wet Wood Burning Slow, Hizz, Crickets In Background, Slight Distance SND35582 (00000181414C0178)
-[LOG] SoundI::release                          : CMCE Beach and SeaBirds V2 (0000017EF01B4FA8)
-[LOG] SoundI::release                          :     CMCE Beach and SeaBirds V2 (0000018121BD88C8)
-[LOG] SoundI::release                          :     CMCE Beach and SeaBirds V2 (00000181414C0328)
-[LOG] Thread::callback                         : FMOD Studio update thread finished.
-[LOG] Thread::callback                         : FMOD Studio bank load thread finished.
-[LOG] Profile::disconnectAll                   : Profiler disconnecting all clients
-[LOG] Thread::callback                         : FMOD Studio sample load thread finished.
-[LOG] LiveUpdate::release                      : 
-[LOG] LiveUpdate::reset                        : Reset connection (reason Disconnected)
-[LOG] Thread::callback                         : FMOD stream thread finished.
-[LOG] Thread::callback                         : FMOD mixer thread finished.
-[LOG] Profile::disconnectAll                   : Profiler disconnecting all clients
-[LOG] SystemI::close                           : Closed.
