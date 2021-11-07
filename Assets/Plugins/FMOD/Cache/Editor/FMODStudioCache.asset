@@ -38,7 +38,7 @@ MonoBehaviour:
   Path: MagicSounds/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 637718750670437436
+  lastModified: 637718765130359592
   FileSizes:
   - Name: Desktop
     Value: 840
@@ -159,7 +159,7 @@ MonoBehaviour:
   - {fileID: 4065642476575117005}
   StringsBanks:
   - {fileID: -6866954482997600694}
-  stringsBankWriteTime: 637718750670437436
+  stringsBankWriteTime: 637718765130359592
   cacheVersion: 8
 --- !u!114 &2416606058853270514
 MonoBehaviour:
@@ -239,7 +239,7 @@ MonoBehaviour:
   Path: MagicSounds/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 637718750670427470
+  lastModified: 637718765130349617
   FileSizes:
   - Name: Desktop
     Value: 4213312
