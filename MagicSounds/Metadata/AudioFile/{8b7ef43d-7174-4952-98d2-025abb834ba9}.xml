@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{8b7ef43d-7174-4952-98d2-025abb834ba9}">
+		<property name="assetPath">
+			<value>TanSingingBowl1.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>53.880000000000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{237e62d7-f0e4-48ba-9438-c622be900591}</destination>
+		</relationship>
+	</object>
+</objects>
