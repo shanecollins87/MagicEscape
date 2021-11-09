@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/IRONHEAD Games/Scenes/LobbyScene.unity
     guid: c31e1de002b648041bbe01d575ea9f9b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GameScene_URP_Shane.unity
     guid: 21d43f4e292bb6648b95d34560db33a3
+  - enabled: 1
+    path: Assets/Scenes/Game_SoundEnvironment.unity
+    guid: 0c113617d8f5ba84c8a66a5f374f2525
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfbfd7137f0e4ac499c0070a1963864e, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b10ec7700f828dc4886f4f59b47038fb, type: 2}
