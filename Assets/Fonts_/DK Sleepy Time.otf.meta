@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a25f1120379bae64bbff35ed8700e1f0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DK Sleepy Time
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 321bd051d1dafda4d81e9dc8e266d25c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
