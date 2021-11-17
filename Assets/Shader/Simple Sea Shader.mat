@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Simple Sea Shader
+  m_Shader: {fileID: -6465566751694194690, guid: d92b27ee399cd6946a2db12f725d55ff, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1794a060509c4a988c7d73457759423b: 1
+    - Vector1_47621785b29745b1a68d370e62979df6: 2.9
+    m_Colors:
+    - Color_3b64720fb5c34e4db87eb0ef388c0a02: {r: 0.7803922, g: 0, b: 0.6301327, a: 0.3960784}
+    - Color_7326d7f17c2543909c3f8260b0b9ff75: {r: 1.811765, g: 0, b: 0, a: 0.8313726}
+    - Vector2_79c68a48f5314f6cbcabd452a5a51c66: {r: 1, g: 12, b: 0, a: 0}
+  m_BuildTextureStacks: []
