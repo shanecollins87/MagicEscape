@@ -41,7 +41,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
+<<<<<<< HEAD
       "version": "2.0.5",
+=======
+      "version": "2.0.11",
+>>>>>>> parent of 8b70e12 (Merging my branch)
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -197,7 +201,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.oculus": {
+<<<<<<< HEAD
       "version": "1.7.0",
+=======
+      "version": "1.10.0",
+>>>>>>> parent of 8b70e12 (Merging my branch)
       "depth": 0,
       "source": "registry",
       "dependencies": {
