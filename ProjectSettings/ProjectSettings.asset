@@ -188,8 +188,11 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 0}
   - {fileID: 0}
+=======
+>>>>>>> parent of 8b70e12 (Merging my branch)
 =======
 >>>>>>> parent of 8b70e12 (Merging my branch)
   - {fileID: 11400000, guid: bfbfd7137f0e4ac499c0070a1963864e, type: 2}

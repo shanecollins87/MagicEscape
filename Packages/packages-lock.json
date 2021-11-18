@@ -43,7 +43,11 @@
     "com.unity.ide.visualstudio": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "version": "2.0.5",
+=======
+      "version": "2.0.11",
+>>>>>>> parent of 8b70e12 (Merging my branch)
 =======
       "version": "2.0.11",
 >>>>>>> parent of 8b70e12 (Merging my branch)
@@ -207,7 +211,11 @@
     "com.unity.xr.oculus": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "version": "1.7.0",
+=======
+      "version": "1.10.0",
+>>>>>>> parent of 8b70e12 (Merging my branch)
 =======
       "version": "1.10.0",
 >>>>>>> parent of 8b70e12 (Merging my branch)
