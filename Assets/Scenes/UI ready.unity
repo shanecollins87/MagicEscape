@@ -38,7 +38,11 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 2138677392}
+<<<<<<< HEAD
   m_IndirectSpecularColor: {r: 0.0032641152, g: 0.28945476, b: 0.30611628, a: 1}
+=======
+  m_IndirectSpecularColor: {r: 0.0032733497, g: 0.2892322, b: 0.30624482, a: 1}
+>>>>>>> Kristina's-branch
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -5306,7 +5310,11 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1358701502}
   m_LocalRotation: {x: -0.061048605, y: -0, z: -0, w: 0.99813485}
+<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: 0, z: -0.49}
+=======
+  m_LocalPosition: {x: 0, y: 0, z: -0.51}
+>>>>>>> Kristina's-branch
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1762214158}
@@ -5314,7 +5322,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 0.02, y: -0}
+=======
+  m_AnchoredPosition: {x: 0.02, y: -0.08}
+>>>>>>> Kristina's-branch
   m_SizeDelta: {x: 5, y: 3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1358701504
@@ -5338,8 +5350,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Wellcome to Magic Escape! \nRelax and explore treasures \nthat are hidden
+<<<<<<< HEAD
     here...\nThis is your personal Island!\nWhen you need asisstant click on primary
     button, on left controller!"
+=======
+    here...\nThis is your personal Island!\nWhen you need asisstant click on X button!"
+>>>>>>> Kristina's-branch
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a23042feab0d00b4c8bb0498449a42b9, type: 2}
   m_sharedMaterial: {fileID: -5115109818847382450, guid: a23042feab0d00b4c8bb0498449a42b9, type: 2}
@@ -6637,7 +6653,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: bec435fbc7c6695498545e20e5d1ee56, type: 3}
+=======
+  m_Sprite: {fileID: 21300000, guid: 57c5891fc20005b47aa8d86ceb604884, type: 3}
+>>>>>>> Kristina's-branch
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7444,7 +7464,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< HEAD
   m_Sprite: {fileID: 21300000, guid: bec435fbc7c6695498545e20e5d1ee56, type: 3}
+=======
+  m_Sprite: {fileID: 21300000, guid: 57c5891fc20005b47aa8d86ceb604884, type: 3}
+>>>>>>> Kristina's-branch
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

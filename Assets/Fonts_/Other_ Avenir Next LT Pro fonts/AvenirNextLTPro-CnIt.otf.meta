@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: ff40060c4df59b443904507ef05f1cca
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Avenir Next LT Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 422153d38e99add46afc37e331f5041e, type: 3}
+  - {fileID: 12800000, guid: 4dd49a3f7e4ea8f43b26004e14bbc467, type: 3}
+  - {fileID: 12800000, guid: 4c523f1cb850a314291452c997f3c0d7, type: 3}
+  - {fileID: 12800000, guid: 06da14073ebd37a4fb7d9d8eb18d12b2, type: 3}
+  - {fileID: 12800000, guid: b6dcb78bc813ea54aae54bf77b59eff0, type: 3}
+  - {fileID: 12800000, guid: 1d33aecfa8bd37448bd70e5266d95677, type: 3}
+  - {fileID: 12800000, guid: 52176ea7d7ad1e94c8ea9fd91a5261a7, type: 3}
+  - {fileID: 12800000, guid: 9ab2df70cf18b0d498dc342d8d00bc49, type: 3}
+  - {fileID: 12800000, guid: ebf1133771c6fd146b6cb3b9d3b7cbd0, type: 3}
+  - {fileID: 12800000, guid: 5e40000271d9381479a9265d45c0489b, type: 3}
+  - {fileID: 12800000, guid: d7454ba80bbe40a428202b68647b2af9, type: 3}
+  - {fileID: 12800000, guid: 4453574a40d67474287ba21a8e01ce85, type: 3}
+  - {fileID: 12800000, guid: e6d5126bfe2ee204abdaddc324fad433, type: 3}
+  - {fileID: 12800000, guid: ee63c699750918343af781ed8a040585, type: 3}
+  - {fileID: 12800000, guid: 9bf023909b1364448a44041320db79ff, type: 3}
+  - {fileID: 12800000, guid: 10569eece66125144af1af933a4c209d, type: 3}
+  - {fileID: 12800000, guid: 7b26d65b6dc3586419d8f41f103af5f5, type: 3}
+  - {fileID: 12800000, guid: e8760a270c4df4b4985fd840c6320729, type: 3}
+  - {fileID: 12800000, guid: efc8f0d9719e07d4dbbd8ec8282eabe6, type: 3}
+  - {fileID: 12800000, guid: e34c229ebf7425b4da9548075a9cfa9b, type: 3}
+  - {fileID: 12800000, guid: 1d3030e5a0a06e14a8a54efe4d2ad0ce, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
