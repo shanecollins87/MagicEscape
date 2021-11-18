@@ -79904,6 +79904,7 @@ MeshRenderer:
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!33 &1309305841
 <<<<<<< HEAD
+<<<<<<< HEAD
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -79987,13 +79988,18 @@ MeshRenderer:
 --- !u!33 &1310350355
 =======
 >>>>>>> parent of ad01f35 (Merge branch 'main' of https://github.com/shanecollins87/MagicEscape)
+=======
+>>>>>>> parent of ad01f35 (Merge branch 'main' of https://github.com/shanecollins87/MagicEscape)
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of ad01f35 (Merge branch 'main' of https://github.com/shanecollins87/MagicEscape)
   m_GameObject: {fileID: 1309305838}
   m_Mesh: {fileID: -347335349176844171, guid: a579024112cb14e498e0a1fcb9da787c, type: 3}
 --- !u!1 &1310350352
@@ -80075,6 +80081,9 @@ MeshFilter:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+>>>>>>> parent of ad01f35 (Merge branch 'main' of https://github.com/shanecollins87/MagicEscape)
+=======
 >>>>>>> parent of ad01f35 (Merge branch 'main' of https://github.com/shanecollins87/MagicEscape)
   m_GameObject: {fileID: 1310350352}
   m_Mesh: {fileID: 4209875735908536054, guid: a579024112cb14e498e0a1fcb9da787c, type: 3}
