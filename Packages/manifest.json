@@ -5,6 +5,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of a1fa7df (Merging my branch)
     "com.unity.ide.rider": "2.0.7",
     "com.unity.ide.visualstudio": "2.0.5",
     "com.unity.ide.vscode": "1.2.3",
@@ -13,6 +16,7 @@
     "com.unity.test-framework": "1.1.22",
     "com.unity.textmeshpro": "3.0.1",
     "com.unity.timeline": "1.4.6",
+<<<<<<< HEAD
     "com.unity.ugui": "1.0.0",
     "com.unity.xr.interaction.toolkit": "1.0.0-pre.2",
     "com.unity.xr.management": "4.1.0",
@@ -41,6 +45,12 @@
 >>>>>>> parent of 8b70e12 (Merging my branch)
 =======
 >>>>>>> parent of 8b70e12 (Merging my branch)
+=======
+    "com.unity.ugui": "1.0.0",
+    "com.unity.xr.interaction.toolkit": "1.0.0-pre.2",
+    "com.unity.xr.management": "4.1.0",
+    "com.unity.xr.oculus": "1.7.0",
+>>>>>>> parent of a1fa7df (Merging my branch)
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

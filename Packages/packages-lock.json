@@ -44,6 +44,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "version": "2.0.5",
 =======
       "version": "2.0.11",
@@ -54,6 +55,9 @@
 =======
       "version": "2.0.11",
 >>>>>>> parent of 8b70e12 (Merging my branch)
+=======
+      "version": "2.0.5",
+>>>>>>> parent of a1fa7df (Merging my branch)
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -212,6 +216,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "version": "1.7.0",
 =======
       "version": "1.10.0",
@@ -222,6 +227,9 @@
 =======
       "version": "1.10.0",
 >>>>>>> parent of 8b70e12 (Merging my branch)
+=======
+      "version": "1.7.0",
+>>>>>>> parent of a1fa7df (Merging my branch)
       "depth": 0,
       "source": "registry",
       "dependencies": {
